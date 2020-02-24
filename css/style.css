@@ -646,12 +646,14 @@ h3 {
 
 /* line 10, ../../Arafath/CL/December/234. Finance/HTML/scss/_section_title.scss */
 .section_title h3 {
-  font-size: 44px;
+  font-size: 26px;
   font-weight: 400;
   color: #001D38;
   position: relative;
   z-index: 0;
   margin-bottom: 15px;
+  line-height: 2;
+  text-align: justify;
 }
 
 @media (max-width: 767px) {
@@ -6907,3 +6909,7 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.faq_ask ul li{
+    list-style: circle;
+}
