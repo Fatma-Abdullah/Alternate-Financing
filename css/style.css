@@ -2362,7 +2362,7 @@ h3 {
 
 /* line 55, ../../Arafath/CL/December/234. Finance/HTML/scss/_accordion_area.scss */
 .accordion_area .faq_ask {
-  padding-top: 130px;
+  padding-top: 80px;
   padding-bottom: 130px;
 }
 
@@ -3489,6 +3489,7 @@ p #amount {
 .works_area .single_works {
   padding-bottom: 20px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 @media (min-width: 991px) {
@@ -3737,6 +3738,7 @@ p #amount {
   line-height: 50px !important;
   font-size: 16px;
   color: #7A838B;
+  font-weight: bold;
 }
 
 /* line 73, ../../Arafath/CL/December/234. Finance/HTML/scss/_apply.scss */
@@ -6913,3 +6915,16 @@ h6 {
 .faq_ask ul li{
     list-style: circle;
 }
+.info-pattern{
+  margin: 4em auto 0 auto;
+}
+
+.info-pattern h3{
+  margin: 1em auto;
+  font-size: 21px;
+  text-align: center;}
+
+  .apply_form h3{
+    font-size: 20px;
+    line-height: 2em;
+  }
