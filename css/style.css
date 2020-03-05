@@ -1160,6 +1160,10 @@ h3 {
 .header-area .main-header-area .main-menu ul li a:hover {
   color: #33D4D6;
 }
+/* line 215, ../../Arafath/CL/December/234. Finance/HTML/scss/_header.scss */
+.header-area .main-header-area .main-menu ul li a.active {
+  color: #33D4D6;
+}
 
 /* line 219, ../../Arafath/CL/December/234. Finance/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu {
