@@ -3014,8 +3014,7 @@ p #amount {
 
 /* line 153, ../../Arafath/CL/December/234. Finance/HTML/scss/_footer.scss */
 .footer .copy-right_text {
-  padding-bottom: 30px;
-}
+    margin: 15px;}
 
 /* line 155, ../../Arafath/CL/December/234. Finance/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right {
@@ -3406,11 +3405,12 @@ p #amount {
 
 /* line 26, ../../Arafath/CL/December/234. Finance/HTML/scss/_service.scss */
 .service_area .single_service .info span {
-  font-size: 16px;
-  color: #fff;
-  font-weight: 400;
-  display: block;
-  margin-bottom: 15px;
+  font-size: 25px;
+    color: #fff;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 15px;
+    margin: 5px 8px;
 }
 
 /* line 33, ../../Arafath/CL/December/234. Finance/HTML/scss/_service.scss */
